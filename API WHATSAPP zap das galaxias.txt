@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=sF9uJqVfWpg&lc=Ugy67NlxvPVvaY37vFx4AaABAg.A-26oV-xjlaA-4tVm7h5ch&ab_channel=ComunidadeZDG
+
+usar npm install e run no ambiente node js
+
+
+git clone https://github.com/pedroherpeto/comunidadezdg
+--------------------------------------------------------------------------
+http://localhost:8000/zdg-message
+
+POST
+-----------------------------------------------------------------------
+HEADER
+
+Content-type application/x-www-form-urlencoded
+-----------------------------------------------
+BODY
+
+application/x-www-form-urlencoded
+
+number 558597566697
+
+message OI LEVY
