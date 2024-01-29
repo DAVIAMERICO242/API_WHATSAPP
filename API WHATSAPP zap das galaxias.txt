@@ -45,3 +45,4 @@ npm start###rodar de maneira fraca
 
 sudo npm install -g pm2
 pm2 start botzdg.js ##rodar de maneira infinita e assincrona
+pm2 stop botzdg.js ##para parar de rodar
