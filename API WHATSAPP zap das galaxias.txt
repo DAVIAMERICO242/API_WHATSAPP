@@ -1,3 +1,6 @@
+abrir botzdg.js e apagar client.on('message'
+
+
 ------------API WHATSAPP
 
 https://www.youtube.com/watch?v=sF9uJqVfWpg&lc=Ugy67NlxvPVvaY37vFx4AaABAg.A-26oV-xjlaA-4tVm7h5ch&ab_channel=ComunidadeZDG
