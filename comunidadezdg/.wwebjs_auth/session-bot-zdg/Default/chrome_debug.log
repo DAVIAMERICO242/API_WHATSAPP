@@ -1,0 +1,35 @@
+[0129/145149.045:ERROR:dxva_video_decode_accelerator_win.cc(1426)] DXVAVDA fatal error: Could not load mf.dll: Não foi possível encontrar o módulo especificado. (0x7E)
+[0129/145151.742:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0129/145151.742:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0129/145151.742:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0129/145151.742:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0129/145151.742:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0129/162659.728:INFO:CONSOLE(216)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/app.0b306c03a873642d2667.js (216)
+[0129/162659.729:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.57824abb073c74f0acbb.worker.js (215)
+[0129/162700.582:INFO:CONSOLE(215)] "Another connection wants to delete database 'model-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.57824abb073c74f0acbb.worker.js (215)
+[0129/162700.583:INFO:CONSOLE(215)] "Another connection wants to delete database 'fts-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.57824abb073c74f0acbb.worker.js (215)
+[0129/162700.660:INFO:CONSOLE(216)] "Dexie.delete('model-storage') was blocked", source: https://web.whatsapp.com/app.0b306c03a873642d2667.js (216)
+[0129/162700.895:INFO:CONSOLE(265)] "Uncaught (in promise) NotInitializedError: Initialize storage before attempting to lock tables!", source: https://web.whatsapp.com/app.0b306c03a873642d2667.js (265)
+[0129/162700.900:INFO:CONSOLE(265)] "Uncaught (in promise) NotInitializedError: Initialize storage before attempting to lock tables!", source: https://web.whatsapp.com/app.0b306c03a873642d2667.js (265)
+[0129/162700.900:INFO:CONSOLE(265)] "Uncaught (in promise) NotInitializedError: Initialize storage before attempting to lock tables!", source: https://web.whatsapp.com/app.0b306c03a873642d2667.js (265)
+[0129/162701.943:INFO:CONSOLE(14)] "Uncaught (in promise) Invariant Violation: [model-storage] Storage should be created first before being accessed", source: https://web.whatsapp.com/vendor1~app.6bd0798bf8d46303b447.js (14)
+[0129/162703.755:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0129/162703.755:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0129/162703.755:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0129/162703.755:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0129/162703.755:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0129/162704.635:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acesso negado. (0x5)
+[0129/162704.635:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\INTELIGENCIA\Desktop\api whatsapp\comunidadezdg\.wwebjs_auth\session-bot-zdg\Default\GPUCache to C:\Users\INTELIGENCIA\Desktop\api whatsapp\comunidadezdg\.wwebjs_auth\session-bot-zdg\Default\old_GPUCache_000
+[0129/162704.635:ERROR:disk_cache.cc(192)] Unable to create cache
+[0129/162704.635:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0129/162705.279:ERROR:dxva_video_decode_accelerator_win.cc(1426)] DXVAVDA fatal error: Could not load mf.dll: Não foi possível encontrar o módulo especificado. (0x7E)
+[0129/162705.286:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[0129/162705.695:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acesso negado. (0x5)
+[0129/162705.695:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\INTELIGENCIA\Desktop\api whatsapp\comunidadezdg\.wwebjs_auth\session-bot-zdg\Default\Cache\Cache_Data to C:\Users\INTELIGENCIA\Desktop\api whatsapp\comunidadezdg\.wwebjs_auth\session-bot-zdg\Default\Cache\old_Cache_Data_000
+[0129/162705.695:ERROR:disk_cache.cc(192)] Unable to create cache
+[0129/162706.098:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0129/162706.098:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0129/162706.098:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0129/162706.098:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0129/162706.098:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0129/162706.098:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
