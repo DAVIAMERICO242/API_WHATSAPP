@@ -1,0 +1,1 @@
+Atualmente estou criando um sistema de autenticação onde apenas usuários logados conseguem acessar a documentação, o sistema também não irá permitir que a mesma seção de qrcode seja iniciada por tokens diferentes  
